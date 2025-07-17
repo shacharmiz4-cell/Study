@@ -1,0 +1,14 @@
+C:\Users\shach\Study\LeetCode\ContainsDuplicate\bin\Debug\net8.0\ContainsDuplicate.exe
+C:\Users\shach\Study\LeetCode\ContainsDuplicate\bin\Debug\net8.0\ContainsDuplicate.deps.json
+C:\Users\shach\Study\LeetCode\ContainsDuplicate\bin\Debug\net8.0\ContainsDuplicate.runtimeconfig.json
+C:\Users\shach\Study\LeetCode\ContainsDuplicate\bin\Debug\net8.0\ContainsDuplicate.dll
+C:\Users\shach\Study\LeetCode\ContainsDuplicate\bin\Debug\net8.0\ContainsDuplicate.pdb
+C:\Users\shach\Study\LeetCode\ContainsDuplicate\obj\Debug\net8.0\ContainsDuplicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shach\Study\LeetCode\ContainsDuplicate\obj\Debug\net8.0\ContainsDuplicate.AssemblyInfoInputs.cache
+C:\Users\shach\Study\LeetCode\ContainsDuplicate\obj\Debug\net8.0\ContainsDuplicate.AssemblyInfo.cs
+C:\Users\shach\Study\LeetCode\ContainsDuplicate\obj\Debug\net8.0\ContainsDuplicate.csproj.CoreCompileInputs.cache
+C:\Users\shach\Study\LeetCode\ContainsDuplicate\obj\Debug\net8.0\ContainsDuplicate.dll
+C:\Users\shach\Study\LeetCode\ContainsDuplicate\obj\Debug\net8.0\refint\ContainsDuplicate.dll
+C:\Users\shach\Study\LeetCode\ContainsDuplicate\obj\Debug\net8.0\ContainsDuplicate.pdb
+C:\Users\shach\Study\LeetCode\ContainsDuplicate\obj\Debug\net8.0\ContainsDuplicate.genruntimeconfig.cache
+C:\Users\shach\Study\LeetCode\ContainsDuplicate\obj\Debug\net8.0\ref\ContainsDuplicate.dll
