@@ -1,0 +1,15 @@
+C:\Users\shach\Study\LeetCode\CarFleet\bin\Debug\net8.0\CarFleet.exe
+C:\Users\shach\Study\LeetCode\CarFleet\bin\Debug\net8.0\CarFleet.deps.json
+C:\Users\shach\Study\LeetCode\CarFleet\bin\Debug\net8.0\CarFleet.runtimeconfig.json
+C:\Users\shach\Study\LeetCode\CarFleet\bin\Debug\net8.0\CarFleet.dll
+C:\Users\shach\Study\LeetCode\CarFleet\bin\Debug\net8.0\CarFleet.pdb
+C:\Users\shach\Study\LeetCode\CarFleet\obj\Debug\net8.0\CarFleet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shach\Study\LeetCode\CarFleet\obj\Debug\net8.0\CarFleet.AssemblyInfoInputs.cache
+C:\Users\shach\Study\LeetCode\CarFleet\obj\Debug\net8.0\CarFleet.AssemblyInfo.cs
+C:\Users\shach\Study\LeetCode\CarFleet\obj\Debug\net8.0\CarFleet.csproj.CoreCompileInputs.cache
+C:\Users\shach\Study\LeetCode\CarFleet\obj\Debug\net8.0\CarFleet.sourcelink.json
+C:\Users\shach\Study\LeetCode\CarFleet\obj\Debug\net8.0\CarFleet.dll
+C:\Users\shach\Study\LeetCode\CarFleet\obj\Debug\net8.0\refint\CarFleet.dll
+C:\Users\shach\Study\LeetCode\CarFleet\obj\Debug\net8.0\CarFleet.pdb
+C:\Users\shach\Study\LeetCode\CarFleet\obj\Debug\net8.0\CarFleet.genruntimeconfig.cache
+C:\Users\shach\Study\LeetCode\CarFleet\obj\Debug\net8.0\ref\CarFleet.dll
