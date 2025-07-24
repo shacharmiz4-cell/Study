@@ -1,0 +1,15 @@
+C:\Users\shach\Study\LeetCode\ValidPalindrome\obj\Debug\net8.0\ValidPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shach\Study\LeetCode\ValidPalindrome\obj\Debug\net8.0\ValidPalindrome.AssemblyInfoInputs.cache
+C:\Users\shach\Study\LeetCode\ValidPalindrome\obj\Debug\net8.0\ValidPalindrome.AssemblyInfo.cs
+C:\Users\shach\Study\LeetCode\ValidPalindrome\obj\Debug\net8.0\ValidPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\shach\Study\LeetCode\ValidPalindrome\obj\Debug\net8.0\ValidPalindrome.sourcelink.json
+C:\Users\shach\Study\LeetCode\ValidPalindrome\bin\Debug\net8.0\ValidPalindrome.exe
+C:\Users\shach\Study\LeetCode\ValidPalindrome\bin\Debug\net8.0\ValidPalindrome.deps.json
+C:\Users\shach\Study\LeetCode\ValidPalindrome\bin\Debug\net8.0\ValidPalindrome.runtimeconfig.json
+C:\Users\shach\Study\LeetCode\ValidPalindrome\bin\Debug\net8.0\ValidPalindrome.dll
+C:\Users\shach\Study\LeetCode\ValidPalindrome\bin\Debug\net8.0\ValidPalindrome.pdb
+C:\Users\shach\Study\LeetCode\ValidPalindrome\obj\Debug\net8.0\ValidPalindrome.dll
+C:\Users\shach\Study\LeetCode\ValidPalindrome\obj\Debug\net8.0\refint\ValidPalindrome.dll
+C:\Users\shach\Study\LeetCode\ValidPalindrome\obj\Debug\net8.0\ValidPalindrome.pdb
+C:\Users\shach\Study\LeetCode\ValidPalindrome\obj\Debug\net8.0\ValidPalindrome.genruntimeconfig.cache
+C:\Users\shach\Study\LeetCode\ValidPalindrome\obj\Debug\net8.0\ref\ValidPalindrome.dll

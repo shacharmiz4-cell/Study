@@ -4,6 +4,9 @@ using System.Collections.Generic;
 
 class Program
 {
+    //dotnet new console -n ProblemName
+    //dotnet sln add ProblemName\ProblemName.csproj
+    //dotnet run --project ProblemName
     static void Main(string[] args)
     {
         int[] nums = { 1, 2, 3, 4 };

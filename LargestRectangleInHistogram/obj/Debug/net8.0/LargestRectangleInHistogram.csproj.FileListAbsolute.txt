@@ -1,0 +1,15 @@
+C:\Users\shach\Study\LeetCode\LargestRectangleInHistogram\bin\Debug\net8.0\LargestRectangleInHistogram.exe
+C:\Users\shach\Study\LeetCode\LargestRectangleInHistogram\bin\Debug\net8.0\LargestRectangleInHistogram.deps.json
+C:\Users\shach\Study\LeetCode\LargestRectangleInHistogram\bin\Debug\net8.0\LargestRectangleInHistogram.runtimeconfig.json
+C:\Users\shach\Study\LeetCode\LargestRectangleInHistogram\bin\Debug\net8.0\LargestRectangleInHistogram.dll
+C:\Users\shach\Study\LeetCode\LargestRectangleInHistogram\bin\Debug\net8.0\LargestRectangleInHistogram.pdb
+C:\Users\shach\Study\LeetCode\LargestRectangleInHistogram\obj\Debug\net8.0\LargestRectangleInHistogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shach\Study\LeetCode\LargestRectangleInHistogram\obj\Debug\net8.0\LargestRectangleInHistogram.AssemblyInfoInputs.cache
+C:\Users\shach\Study\LeetCode\LargestRectangleInHistogram\obj\Debug\net8.0\LargestRectangleInHistogram.AssemblyInfo.cs
+C:\Users\shach\Study\LeetCode\LargestRectangleInHistogram\obj\Debug\net8.0\LargestRectangleInHistogram.csproj.CoreCompileInputs.cache
+C:\Users\shach\Study\LeetCode\LargestRectangleInHistogram\obj\Debug\net8.0\LargestRectangleInHistogram.sourcelink.json
+C:\Users\shach\Study\LeetCode\LargestRectangleInHistogram\obj\Debug\net8.0\LargestRectangleInHistogram.dll
+C:\Users\shach\Study\LeetCode\LargestRectangleInHistogram\obj\Debug\net8.0\refint\LargestRectangleInHistogram.dll
+C:\Users\shach\Study\LeetCode\LargestRectangleInHistogram\obj\Debug\net8.0\LargestRectangleInHistogram.pdb
+C:\Users\shach\Study\LeetCode\LargestRectangleInHistogram\obj\Debug\net8.0\LargestRectangleInHistogram.genruntimeconfig.cache
+C:\Users\shach\Study\LeetCode\LargestRectangleInHistogram\obj\Debug\net8.0\ref\LargestRectangleInHistogram.dll

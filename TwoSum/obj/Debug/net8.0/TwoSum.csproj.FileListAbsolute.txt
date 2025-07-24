@@ -12,3 +12,4 @@ C:\Users\shach\Study\LeetCode\TwoSum\obj\Debug\net8.0\refint\TwoSum.dll
 C:\Users\shach\Study\LeetCode\TwoSum\obj\Debug\net8.0\TwoSum.pdb
 C:\Users\shach\Study\LeetCode\TwoSum\obj\Debug\net8.0\TwoSum.genruntimeconfig.cache
 C:\Users\shach\Study\LeetCode\TwoSum\obj\Debug\net8.0\ref\TwoSum.dll
+c:\Users\shach\Study\LeetCode\TwoSum\obj\Debug\net8.0\TwoSum.sourcelink.json
