@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestRectangleInHistogram
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidPalindrome", "ValidPalindrome\ValidPalindrome.csproj", "{E2286919-3D66-460A-8EF4-3BE571D21EB3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowSumII", "TowSumII\TowSumII.csproj", "{E37DFD42-1374-4F00-848B-3E24F323C50E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{E2286919-3D66-460A-8EF4-3BE571D21EB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2286919-3D66-460A-8EF4-3BE571D21EB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2286919-3D66-460A-8EF4-3BE571D21EB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E37DFD42-1374-4F00-848B-3E24F323C50E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E37DFD42-1374-4F00-848B-3E24F323C50E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E37DFD42-1374-4F00-848B-3E24F323C50E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E37DFD42-1374-4F00-848B-3E24F323C50E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

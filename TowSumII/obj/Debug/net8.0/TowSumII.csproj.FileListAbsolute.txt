@@ -1,0 +1,15 @@
+c:\Users\shach\Study\LeetCode\TowSumII\obj\Debug\net8.0\TowSumII.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\shach\Study\LeetCode\TowSumII\obj\Debug\net8.0\TowSumII.AssemblyInfoInputs.cache
+c:\Users\shach\Study\LeetCode\TowSumII\obj\Debug\net8.0\TowSumII.AssemblyInfo.cs
+c:\Users\shach\Study\LeetCode\TowSumII\obj\Debug\net8.0\TowSumII.csproj.CoreCompileInputs.cache
+c:\Users\shach\Study\LeetCode\TowSumII\obj\Debug\net8.0\TowSumII.sourcelink.json
+C:\Users\shach\Study\LeetCode\TowSumII\bin\Debug\net8.0\TowSumII.exe
+C:\Users\shach\Study\LeetCode\TowSumII\bin\Debug\net8.0\TowSumII.deps.json
+C:\Users\shach\Study\LeetCode\TowSumII\bin\Debug\net8.0\TowSumII.runtimeconfig.json
+C:\Users\shach\Study\LeetCode\TowSumII\bin\Debug\net8.0\TowSumII.dll
+C:\Users\shach\Study\LeetCode\TowSumII\bin\Debug\net8.0\TowSumII.pdb
+C:\Users\shach\Study\LeetCode\TowSumII\obj\Debug\net8.0\TowSumII.dll
+C:\Users\shach\Study\LeetCode\TowSumII\obj\Debug\net8.0\refint\TowSumII.dll
+C:\Users\shach\Study\LeetCode\TowSumII\obj\Debug\net8.0\TowSumII.pdb
+C:\Users\shach\Study\LeetCode\TowSumII\obj\Debug\net8.0\TowSumII.genruntimeconfig.cache
+C:\Users\shach\Study\LeetCode\TowSumII\obj\Debug\net8.0\ref\TowSumII.dll
